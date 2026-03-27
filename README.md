@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Am in CHITKARA UNIVERSITY ~ CSE with Specialization in AI & ML."B.E. 2028". My Fields || Artificial Intelligence || Web Development
+I am currently a second-year Computer Science engineering student, specializing in Artificial Intelligence and Machine Learning, with a strong focus on becoming a highly skilled and successful engineer.
 
 
 ## 🌐 Socials:
